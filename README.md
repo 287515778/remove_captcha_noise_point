@@ -1,0 +1,1 @@
+# remove_captcha_noise_point
